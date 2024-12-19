@@ -8,4 +8,4 @@ function mayor(a, b) {
   }
 }
 
-mayor(2,4);
+mayor(2, 4);

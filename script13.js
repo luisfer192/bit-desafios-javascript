@@ -8,5 +8,4 @@ function es_divisible(a, b) {
   }
 }
 
-
-es_divisible(5,2);
+es_divisible(5, 2);
